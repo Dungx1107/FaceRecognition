@@ -1,0 +1,31 @@
+# Python virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# IDE and Editor configurations
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+
+# OS specific files
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# User-specific or local configurations
+*.log
+local_settings.py
+
+
